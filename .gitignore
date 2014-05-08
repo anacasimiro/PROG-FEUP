@@ -20,4 +20,14 @@
 *.out
 *.app
 
+# Visual Studio Files
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.filters
+
+# Mac Files
+*.DS_Store
+
 *Debug
