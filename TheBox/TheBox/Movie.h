@@ -1,5 +1,5 @@
 #ifndef _MOVIE
- #define _MOVIE
+#define _MOVIE
 
 #include<iostream>
 
